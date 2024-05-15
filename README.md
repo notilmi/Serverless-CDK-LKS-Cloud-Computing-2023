@@ -11,7 +11,7 @@ menjadi lebih cepat dengan menggunakan AWS CDK
 
 ## Infrastructure
 
-![alt text](https://github.com/notilmi/Serverless-CDK-LKS-Cloud-Computing-2023/blob/main/image/diagram.png?raw=true)
+![alt text](https://github.com/notilmi/Serverless-CDK-LKS-Cloud-Computing-2023/blob/image/diagram.png?raw=true)
 
 ## Additional Scripts
 
