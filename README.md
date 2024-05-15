@@ -1,14 +1,19 @@
-# Welcome to your CDK TypeScript project
+# LKSN Cloud Computing 2023 Module A - CDK
 
-This is a blank project for CDK development with TypeScript.
+## Overview
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+Proyek ini memanfaatkan Amazon Web Services Cloud Development Kit (AWS CDK) yang canggih
+untuk meluncurkan aplikasi Serverless secara efisien ke dalam lingkungan Cloud AWS.
 
-## Useful commands
+Sesuai namanya proyek ini ialah implementasi dari Soal LKS Tingkat Nasional Tahun 2023
+Modul A Yang Dahulu aplikasi ini dideploy secara manual dan memerlukan waktu lama dan effort
+menjadi lebih cepat dengan menggunakan AWS CDK
 
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `npx cdk deploy`  deploy this stack to your default AWS account/region
-* `npx cdk diff`    compare deployed stack with current state
-* `npx cdk synth`   emits the synthesized CloudFormation template
+## Additional Scripts
+
+- **CDK:**
+
+  - `cdk synth`: Me-Sintesis Infrastruktur CDK Ke CloudFormation.
+  - `cdk deploy`: Deploys This Project To The Cloud ☁.
+
+### Made With Love ♥ By Ilmi - Alumni LKSN Cloud Computing 2023
