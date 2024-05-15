@@ -9,6 +9,10 @@ Sesuai namanya proyek ini ialah implementasi dari Soal LKS Tingkat Nasional Tahu
 Modul A Yang Dahulu aplikasi ini dideploy secara manual dan memerlukan waktu lama dan effort
 menjadi lebih cepat dengan menggunakan AWS CDK
 
+## Infrastructure
+
+![alt text](https://github.com/notilmi/Serverless-CDK-LKS-Cloud-Computing-2023/blob/main/image/diagram.png?raw=true)
+
 ## Additional Scripts
 
 - **CDK:**
